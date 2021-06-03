@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from the sessions-house in the Old-Bayly Being a full and true relation of the tryal and condemnation of John Smith, John Darkin, and Geo. Marshal, for stealing the plate out of the parish church of St. Giles's in the Fields. As also the tryals of three shoe-makers for murthering a milk-woman neer Kentishtown: with the condemnation of a woman that murthered her childe. And several other notorious malefactors for several crimes: at a sessions of peace there held; which began on Wednesday the 5th of this instant April, and ended on Fryday the 7th 1676. With an account of how many are condemn'd to die, how many burn'd in the hand, to be transported, and to be whipt. Licensed April 7. 1676. Oldenburg.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27391</idno><idno type="EEBO-CITATION">99828217</idno>
+  <idno type="VID">173139</idno>
+  <idno type="EEBO-PROQUEST">2240873361</idno>
+  
+            <idno type="STC">Wing N1017B</idno>
+            <idno type="STC">ESTC R216487</idno>
+            <idno type="PROQUEST">99828217</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828217e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from the sessions-house in the Old-Bayly Being a full and true relation of the tryal and condemnation of John Smith, John Darkin, and Geo. Marshal, for stealing the plate out of the parish church of St. Giles's in the Fields. As also the tryals of three shoe-makers for murthering a milk-woman neer Kentishtown: with the condemnation of a woman that murthered her childe. And several other notorious malefactors for several crimes: at a sessions of peace there held; which began on Wednesday the 5th of this instant April, and ended on Fryday the 7th 1676. With an account of how many are condemn'd to die, how many burn'd in the hand, to be transported, and to be whipt. Licensed April 7. 1676. Oldenburg.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D. M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: An account of the most remarkable tryals at the Sessions house in the Old bayly.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+               <term type="topical_term">Trials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173139:1"/>
+            <p>NEWS FROM THE Sessions-house IN THE OLD-BAYLY.</p>
+            <p>Being a full and true Relation of the Tryal and Condemnation of <hi>John Smith, John Darkin,</hi> and <hi>Geo. Marshal,</hi> For stealing the Plate out of the Parish church of St. <hi>Giles</hi>'s <hi>in the Fields.</hi>
+            </p>
+            <p>As also the Tryals of three Shoe-makers for Murthering a Milk-woman neer <hi>Kentishtown:</hi> With the Condemnation of a Woman that murthered her Childe. And several other notorious Malefactors for several Crimes: At a Sessions of Peace there held; which began on Wednesday the 5th of this Instant <hi>April,</hi> and ended on Fryday the 7th 1676.</p>
+            <p>With an Account of how many are condemn'd to Die, how many Burn'd in the hand, to be Transported, and to be Whipt.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Licensed</p>
+                           <closer>
+                              <dateline>
+                                 <date>
+                                    <hi>April</hi> 7. 1676. <hi>Oldenburg.</hi>
+                                 </date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D.M.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173139:2"/>
+            <pb n="3" facs="tcp:173139:2"/>
+            <head>AN ACCOUNT Of the most remarkable TRYALS At the Sessions house in the <hi>Old bayly.</hi>
+            </head>
+            <p>THe Tryals and Condemnations or Acquittals of the several Malefactors at Justice-Hall in the <hi>Old-bayly London,</hi> having proved very acceptable, we have thought good to continue their publications; this Sessions being as remarkable as others: and is as followeth.</p>
+            <p>There was a Victualler tried for killing a Man; they fought very fiercely together, and the Man went home: The Evi<g ref="char:EOLhyphen"/>dence swore that the Victualler was the cause of his Death, who had bruised him sore in several parts, and had caused him to spit Blood; but in regard he died a Moneth after, and was indifferently well: The Jewry acquitted the Prisoner of the Murther.</p>
+            <p>There was a Young man tried for stealing of a Saw, the Prosecutor made <hi>Affidavit,</hi> That that Saw which was found in the Young mans custody was his: The Young man brought a Joyner, that swore he made him the frame of the Saw, half a year ago; whereas the Prosecutor swore, that his
+<pb n="4" facs="tcp:173139:3"/> was stoll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a year ago: So that the Youngman was dischar<g ref="char:EOLhyphen"/>ged of the Crime.</p>
+            <p>There was a lusty young Fellow, <hi>John Smith</hi> by Name, tried for the sacriligious stealing of above <hi>Two Hundred</hi> Pounds worth of Plate, out of the Vestry of St. <hi>Giles</hi>'s Church. The Beadle of the Parish suspected this man, because he was a loose Liver, and came to his Lodging, but found him not within: He asked his Neighbour for him, and he said, That at Nine of the Clock at Night he was within, but since he had not seen him. The Beadle promised him Ten Shillings, to b ing him word, when he was within; but the other when he saw him, told the Prisoner what the Beadle said; then he came not to his Lodging in a Months time: But at his return, he had notice given him by others, and he took a Constable with him, and came to his Chamber<g ref="char:EOLhyphen"/>door, and rushed against it, designing to break it open, but he could not. The Prisoner hearing it, got up, and asked, Who was there? The Beadle told him, That he was suspec<g ref="char:EOLhyphen"/>ted for stealing away the Church-plate, and they had a Warrant to apprehend him. The Prisoner then told him, He was a Son of a Bitch, and he had nothing to say to him: And whilst they were breaking open the Door, he run up in<g ref="char:EOLhyphen"/>to a Garret, and got up upon the House, and ran along se<g ref="char:EOLhyphen"/>veral houses in his Shirt only, when they found he was fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, they made it their business to catch him; And in order thereto a Youth was sent up, and at the end of the House he spied him: when he approached near, he said, You Son of a Bitch, get you gone, or I will split your Brains with a Tile; this nothing daunted him, for he returned the same expres<g ref="char:EOLhyphen"/>sion to him, but presently he came running by the Young-man, and then there was the Beadle, that lay in ambush for him, so that he leaped-out of the Frying-pan into the Fire.</p>
+            <q>
+               <l>He that <hi>Scylla</hi> seeks to shun,</l>
+               <l>Doth often on <hi>Charibdis</hi> run.</l>
+            </q>
+            <pb n="5" facs="tcp:173139:3"/>
+            <p>When he was thus backset and foreset, he could not hope for a release, but by the danger of breaking his N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck, so that he unwillingly became their Captive. At his Indict<g ref="char:EOLhyphen"/>ment he would not plead, because a man was to give Evi<g ref="char:EOLhyphen"/>dence against him, that was a Party concerned; so that when nothing would prevail to make him plead, he was sentenced to be prest to Death: But through the Sheriffs intercession, he was perswaded to plead; and then the Court would hardly be perswaded to revoke the Sentence I but upon his Knees he entreated them very importu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ately: at last they condisc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded to grant him more favour than he did deserve, <hi>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z.</hi> A legal Trial; and then it wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proved, that he was one of the three that broke in. There was an Iron-betty shewed, and some small pieces of the Plate, that were found in a house where the Plate was sold by his and their orders: It was proved that he was one of the three, that hid the plate in a Ditch, and received an equal share of the Money. And the Woman that had it of them, sold it to another for Three <hi>Shil.</hi> Eight <hi>Pen.</hi> an Ounce: so that the Jury could do no less than find him guilty of the Fact.</p>
+            <p>There was a Youngman and his supposed Wife that were Arraigned for stealing of Thirty pair of Cloath-coloured Stockins: He (understanding there were many other Indi<g ref="char:EOLhyphen"/>ctments against him) pleaded guilty to all Felonies within the benefit of Clergy: But she refused to plead, saying, That she was his Wife, and therefore bound to keep his secrets: but at last she pleaded, she was acquitted, and he found guilty.</p>
+            <p>There were Three Shoo-makers arraigned for Murthering a Young-VVoman; they went towards <hi>Kintish</hi>-Town, and there they spied her with Milk: One of them asked for some to drink; But she would not give them any: They gave and received some provoking words, which stird them up to blowes; several of her Acquaintance took her part, and routed the Shoo-makers. But before her Assistants came in, she had gotten some bruises. This was on <hi>Friday,</hi> and she died on the <hi>Mundy</hi> following. They were acquitted both of
+<pb n="6" facs="tcp:173139:4"/> the Murder and Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>slaughter; and they owe great thanks to a merc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful <hi>Middlesex</hi>-Jury.</p>
+            <p>There was a Souldier tryed for stealing away a Marble-stone of the value of eighteen shillings from <hi>Sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tland-yard:</hi> It was proved that he laid it on the Porters back and prof<g ref="char:EOLhyphen"/>fered to sell it; so that the Jury could do no less then finde him guilty of petty L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rceny, and that was a favour too, for they might have brought him in guilty of Felony, and then he would have been one step more neerer related to Tyburn.</p>
+            <p>There was likewise two men more tried for the stealing of St. <hi>Giles</hi>'s Plate: one was the Smith that made the <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity,</hi> to whose hou e they carried the Plate, who pleaded innocency at the bar, but there was one of the Thieves that gave Evi<g ref="char:EOLhyphen"/>dence against all the rest, that swore he had made above twenty <hi>Betties:</hi> He then said, he never had any knowledge of any <hi>Betty</hi> but his Wife, they were both found guilty.</p>
+            <p>A Woman was tried for murthering her Child: Two or three made O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, that she said the Child was still-born, and afterwards she threw it into a Pond, in regard the Ground was so hard that she could not digg a hole to bury it in; but in regard she did not discover her being with Childe to any, nor call any in at the birth of the Childe. She was found guilty by the Jury according to an Act of Parliament in King <hi>Edward</hi>'s time.</p>
+            <p>There was a Youth, who appeared to be about seventeen years of Age, indicted for a Robbery: for that he and two more robbed a young man a little beyond <hi>Islington</hi> of about eight pounds in Money. It was about eight of the clock in the evening in <hi>March</hi> last. The Prosecutor knew this youth but durst <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake no notice of him for fear they should have killed him; for the Moon did shine bright, insomuch that he could discern him as well by that as a clear light; and there<g ref="char:EOLhyphen"/>fore he was very possitive and confident in his affirmation. Notwithstanding several came in to testifie that at that hour when he was accused for the Robbery, he was at the Musick-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se in <hi>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itechapp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> but he was found guilty.</p>
+            <pb n="7" facs="tcp:173139:4"/>
+            <p>There was a young man tryed for a Burglary committed at <hi>Thistleworth,</hi> he took out of a house two Flitches of bacon several pounds of beef, a leg of pork, and some wearing clothes, but he that was accused was acquitted, because they only made Oath that he was there in the morning, and this was d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne in the night following; he drank a pot of beere in the house, and looked up into the Chimney where the bacon hung, and commended it for good bacon, he had formerly suffered for such like misde<g ref="char:EOLhyphen"/>meanours; and that was one reason why he was suspected, his commending the bacon might be ano<g ref="char:EOLhyphen"/>ther; but the greatest was, because they found the wyth which he that owned the bacon, made near the house where the prisoner lodged, which was at least two miles from the place where the fact was com<g ref="char:EOLhyphen"/>mitted.</p>
+            <p>There were two women indicted for stealing a piece of Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k from a Mercer in the City, but they were not both arraigned, for one of them was brought a bed of a <hi>Newgate</hi> bird; and the other refu<g ref="char:EOLhyphen"/>sed her tryal, because her sister Shop lift could not come to take her tryal, but at last she took a tryal, and the other too: she was acquitted, the other found guilty of this, and was burn'd in the hand last Sessi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>There was an honest Country man tryed for steal<g ref="char:EOLhyphen"/>ing a Calf; but it was another that stole it, and sold it to him; who confest it at the Barr, so that the other was acquitted, and the Prosecutor blamed for indicting him that bought it; but he excused him<g ref="char:EOLhyphen"/>self, by saying that the other was not taken when he
+<pb n="8" facs="tcp:173139:5"/> was indicted. Thus you see, <hi>the righteous oft suffer fer the sinners sake.</hi>
+            </p>
+            <p>There was two young men tryed for breaking open a Merchants house, and both brought in guilty of the Fact.</p>
+            <p>Another young man was arraigned for Murther, heard two more were throwing stones at one ano<g ref="char:EOLhyphen"/>ther in <hi>Clerkenwell</hi>-Green, and it was his hard mis<g ref="char:EOLhyphen"/>fortune to be too good a marks man, for he hit one of them under the ear, and he dyed within three days, so that he was found guilty of Manslaughter.</p>
+            <p>There was a young man tryed and sound guilty for the felonious taking away of several goods and some mony out of some Trunks, which he broke, which were locked in his Landladies Chamber,</p>
+            <p>There was a woman found guilty of stealing away a silver Tankard from her Master.</p>
+            <q>
+               <l>Sixteen condemn'd, five burned in the hand;</l>
+               <l>And five Transplanted to some other Land:</l>
+               <l>Seven ordered to be whipt, and one was fin'd,</l>
+               <l>The Fine was small, because the Court was kind.</l>
+               <l>Each of their Crimes were great, therefore I doubt;</l>
+               <l>There will be mighty work for <hi>Ketch</hi> this bout:</l>
+               <l>Good Lord deliver all as well as me,</l>
+               <l>From Ketches mercy, and the Tripple Tree.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
